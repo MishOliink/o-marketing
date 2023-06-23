@@ -104,10 +104,10 @@ body {
 }
 
 .header__top-inner {
-   padding-bottom: 29px;
+   padding-bottom: 5px;
    display: flex;
    justify-content: space-between;
-   align-items: flex-end;
+   align-items: center;
 }
 
 .menu__btn {
